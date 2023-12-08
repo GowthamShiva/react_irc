@@ -1,0 +1,4 @@
+//JavaScript code to get value from ID and print it
+
+const element = document.getElementById("myElement");
+console.log(element);
