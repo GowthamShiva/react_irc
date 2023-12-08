@@ -1,0 +1,7 @@
+//JavaScript program to print elements from a string
+
+const Items = ["Grenade","AK-47","Missilelauncher","Stickybomb","Katana"];
+
+Items.forEach((Items) => {
+  console.log(Items);
+});
