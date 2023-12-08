@@ -1,0 +1,20 @@
+//JavaScript program to print a pattern using for loop
+
+function printPattern(range) {
+  for(var i=range;i>0;i--){
+    var str="";
+    for(var j=i;j>0;j--){
+      str += "*"+" ";
+    }
+    console.log(str);}
+    
+  for(var k=1;k<=range;k++){
+    var str="";
+    for(var l=0;l<=k;l++){
+      str += "*"+" ";
+    }
+    console.log(str);
+  }
+}
+
+printPattern(15);
