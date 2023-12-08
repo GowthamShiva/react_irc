@@ -1,0 +1,29 @@
+//Function to add two numbers and print their sum:
+
+function addition(a, b) {
+    return a + b;
+  }
+  let sum = addition(5, 3);
+  console.log("Sum: " + sum);
+
+//Function to multiply two numbers and print their product:
+
+  function multiplication(a, b) {
+    return a * b;
+  }
+  let product = multiplication(4, 6);
+  console.log("Product: " + product);
+
+//Function to print person with city:
+ 
+  function printcity(name,city) {
+    return name +" from "+ city + "!";
+  }
+  let details = printcity("Gon","Whale Island");
+  console.log(details);
+
+//Function to conver fahrenheit to celcius:
+
+ function Celsius(fahrenheit) {
+  return (5/9) * (fahrenheit-32);
+}
