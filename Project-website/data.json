@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "username": "Gowtham",
+      "password": "Hello12!",
+      "id": 1
+    },
+    {
+      "username": "Vinod1sedfsd",
+      "email": "vabro@gmail.com",
+      "password": "Heloo12!",
+      "id": 2
+    },
+    {
+      "username": "Asjdhhj13",
+      "email": "vabro@gmail.com",
+      "password": "Hello123!",
+      "id": 3
+    },
+    {
+      "username": "Helon1",
+      "email": "AK-47@gmail.com",
+      "password": "Head@123",
+      "id": 4
+    },
+    {
+      "username": "Gotcha",
+      "email": "gotcha12@gmail.com",
+      "password": "Vada12345!",
+      "id": 5
+    },
+    {
+      "username": "Gotchaa",
+      "email": "gotchaa123@gmail.com",
+      "password": "Vaada@123",
+      "id": 6
+    },
+    {
+      "username": "Midna",
+      "email": "midna1@gmail.com",
+      "password": "Midna@123",
+      "id": 7
+    }
+  ]
+}

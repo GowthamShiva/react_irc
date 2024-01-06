@@ -1,0 +1,53 @@
+
+.dest-label {
+    text-align: center;
+    margin-top: 20px; /* Adjust the margin-top as needed for spacing */
+  }
+  
+  .dest-image {
+    display: block;
+    margin: 0 auto; /* This centers the image horizontally */
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .dest-content {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+    text-align: justify; /* Justify the text for a cleaner look */
+    margin-bottom: 20px; 
+    margin-right: 20px;
+  }
+  
+  /* dest1.css */
+
+.dest-card {
+    max-width: 600px; /* Adjust the max-width as needed */
+    margin-top:40px;
+    margin-bottom:40px;
+    margin-left:40px;
+    margin-right:40px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    background-color: #fff;
+  }
+
+  .but:hover{
+    background-color: blue;
+  }
+
+  .but{
+    background-color:'white';
+    width:'60px';
+    height:'40px';
+    color:'white';
+    border:'none';
+    justify-content:'center';
+    border-radius:'20px';
+}
+  
+  

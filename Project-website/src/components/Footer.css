@@ -1,0 +1,50 @@
+    /* external-styles.css */
+
+.container7 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #99ccff;
+    border-radius: 0.5rem;
+    padding: 2.5rem;
+  }
+  
+  .container7 ul {
+    display: flex;
+    list-style-type: none;
+    gap: 2rem;
+  }
+  
+  .container7 ul li a {
+    text-decoration: none;
+    color: black;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .container7 ul li a:hover {
+    color: #302ce9;
+  }
+  
+  .container7 ul li svg {
+    font-size: 1.3rem;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .container7 ul li svg:hover {
+    color: #302ce9;
+  }
+  
+  @media screen and (min-width: 280px) and (max-width: 1024px) {
+    .container7 {
+      flex-direction: column;
+      gap: 2rem;
+    }
+  
+    .container7 ul {
+      flex-direction: column;
+    }
+  
+    .container7 .social__links {
+      flex-direction: row;
+    }
+  }
+  
